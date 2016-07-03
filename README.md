@@ -4,13 +4,13 @@ This repository is the final project assignment for Coursera's Getting and Clean
 ###The dataset###
 It gives us information on the human activity using smartphones
 The link is provided below
-[a link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ###Files###
 
-*Codebook :- Contains all the variables description
-*run_analysis :- the code
-*tidydata :-final result file
+* Codebook :- Contains all the variables description
+* run_analysis :- the code
+* tidydata :-final result file
 
 ###Algo approach###
 1. Download the dataset and unzip the files from the url
